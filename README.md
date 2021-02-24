@@ -6,3 +6,5 @@ Descrizione del progetto:
 • Login specifico per l’amministratore (admin) della filiale di spedizione
 • Possibilità di aggiornare lo stato di ogni singola spedizione
 • Visualizzazioni personalizzate (per clienti e amministratori) dello storico delle spedizioni e delle spedizioni in corso.
+
+All'interno del file .../doc/index.html si trova la documentazione generata con javadoc
